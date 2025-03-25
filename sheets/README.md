@@ -1,5 +1,8 @@
 # Google Forms Processor
 
+>![TIP]
+>Make sure to use an oauth access approach to building this. Make sure you create the spreadsheet in the correct organisation.
+
 This tool processes responses from a Google Form, creates markdown files for reviewing and adding comments, and generates formatted emails based on your feedback.
 
 ## Setup
