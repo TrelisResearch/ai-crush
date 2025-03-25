@@ -1,0 +1,9 @@
+numpy>=1.22.0
+sounddevice>=0.4.5
+soundfile>=0.11.0
+colorama>=0.4.6
+rich>=12.0.0
+pandas>=1.5.0
+pyarrow>=10.0.0
+huggingface-hub>=0.13.0
+tqdm>=4.64.0 
