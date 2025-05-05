@@ -135,7 +135,7 @@ def create_markdown_file(row, entry_id):
 
 ## Details
 - **Timestamp:** {timestamp}
-- **Did you enjoy techpreneurs?:** {did_you}
+- **Did you enjoy AI crush?:** {did_you}
 - **Email:** {email}
 
 ## Comments

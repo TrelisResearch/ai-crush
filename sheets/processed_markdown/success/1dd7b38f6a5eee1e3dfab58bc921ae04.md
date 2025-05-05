@@ -2,7 +2,7 @@
 
 ## Details
 - **Timestamp:** 3/25/2025 15:14:39
-- **Did you enjoy techpreneurs?:** yes
+- **Did you enjoy AI crush?:** yes
 - **Email:** ronan@trelis.com
 
 ## Comments
