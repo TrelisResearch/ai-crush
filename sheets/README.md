@@ -9,7 +9,8 @@ This tool processes responses from a Google Form, creates markdown files for rev
 
 1. Install the required dependencies:
    ```
-   pip install -r requirements.txt
+   uv venv
+   uv pip install -r requirements.txt
    ```
 
    This version requires:
